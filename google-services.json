@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "248023090478",
+    "firebase_url": "https://database-69d8d.firebaseio.com",
+    "project_id": "database-69d8d",
+    "storage_bucket": "database-69d8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248023090478:android:8bed477a257c42e368e6bf",
+        "android_client_info": {
+          "package_name": "com.example.aplikasiiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248023090478-djr8kvdhtmbtqccdp8stm485uhp0ancj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPXc_pcwgClWfG9QU7HKfLP1D4XuKJdkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248023090478-djr8kvdhtmbtqccdp8stm485uhp0ancj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
