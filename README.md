@@ -1,5 +1,5 @@
 # Aplikasi-IoT
-# [Aplikasi IoT(SECURITY SYSTEM WITH RFID CONTROL USING E-KTP AND INTERNET OF THINGS (IoT)](https://github.com/andiainunnajib/Aplikasi-IoT)
+# [(SECURITY SYSTEM WITH RFID CONTROL USING E-KTP AND INTERNET OF THINGS (IoT)](https://github.com/andiainunnajib/Aplikasi-IoT)
 
 Perkembangan zaman diikuti dengan perkembangan teknologi yang pesat. Dengan adanya perkembangan teknologi, dapat memberikan manfaat bagi kehidupan.
 Salah satu manfaat yang dapat diberikan dengan perkembangan teknologi adalah
@@ -27,3 +27,14 @@ terhubung dengan sensor PIR.
 # Tampilan aplikasi
 ![image](https://user-images.githubusercontent.com/85381045/142727773-32def674-a312-4ee6-86a3-bceeba2387e9.png)
 ![image](https://user-images.githubusercontent.com/85381045/142727781-706f3dcf-fa59-40ad-a2f3-7671ea0c6af0.png)
+
+# Conclution
+Dari hasil pengujian dan analisis menunjukan bahwa sensor PIR dapat mendeteksi gerakan di sekitar alat dan RFID dapat mendeteksi E-KTP dengan jarak
+maksimum 4 cm. Penggunaan penghalang menunjukkan bahwa E-KTP sangat
+dipengaruhi oleh induksi elektromagnetika, semakin tebal bahan penghalang semakin berkurang jarak pendeteksian. Pendetekasian E-KTP berpengaruh terhadap
+sudut yang digunakan, semakin besar sudut pendeteksian semakin dekat jarak deteksi E-KTP. Pada aplikasi, untuk fitur lock dan open mendapatkan nilai Throughput 20700 b/s dengan indeks sangat bagus, Packet loss bernilai 0% dengan
+indeks sangat bagus, Delay bernilai 63,6306 ms dengan indeks sangat bagus, dan
+Jitter bernilai 63,412 ms dengan indeks bagus. Untuk fitur alert pengirim notifikasi
+menghasilkan nilai rata-rata Throughput 16700 b/s, Packet loss dengan indeks sangat bagus, bernilai 0,24%, Delay dengan indeks sangat bagus, bernilai 79,074 ms,
+dan jitter dengan indeks bagus, bernilai 70,664 ms.
+
